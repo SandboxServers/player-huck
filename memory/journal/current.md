@@ -1,54 +1,5 @@
-Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden sword, health 20, hunger 19, no food.
-- Tried follow intent to Tesla for the cow trip. It failed (Tesla not in sight). Holding at the tables with the armed group, waiting for the cow trip in daylight to be called, staying in sight.
-- Boudicca asked me to wait for her in sight for the cow trip. I agreed.
-- Phantoms are south and east at 10-17 blocks. Not walking out alone.
-- Night, day 1166. Sun set. Holding at the tables in the group's sight, sword in hand, health 20, hunger 19, no food. Phantoms 15-22 blocks west and south-west, none on me.
-- Morning, day 1166. Survived night at the tables, health 20. Said I'm joining Troi and Han's cow walk in daylight, staying in sight. Troi not yet in sight; waiting at the tables.
-- 18:34 act: {"actions":[],"say":"Huck, night, with the group at the tables, wooden sword in hand, health 20, hunger 19, no food. I'm staying in sight and not walking in the dark."}
-- 18:42 act: {"actions":[],"say":"Huck, morning, armed with a wooden sword, hunger 19, no food. I'm joining the cow walk with Troi and Han in daylight, staying in sight. Troi, say when you leave."}
-- 18:47 act: {"actions":[],"say":"Huck, midday, armed, hunger 19, no food, still at the tables. Troi, Han: when the cow walk leaves, call my name and I'll follow in your sight."}
-- 18:55 act: {"actions":[],"say":"Huck, morning, armed, hunger 19, no food. I'm joining the cow search in the group's sight. Call out when you see a cow and I'll come.","intent":{"goal":"hold_with_cow_search","pro
-- 18:55 act: {"actions":[],"say":"Huck, morning, armed, hunger 19, no food. Follow to William failed, he's out of my sight. Staying at the tables in the group's sight. Whoever sees a cow, call my name."}
-- 18:59 act: {"actions":[],"say":"Huck, midday, armed, hunger 19, no food. Joining Billy's cow search in sight. Billy, call my name when you leave and I'll walk with you."}
-- 19:03 act: {"actions":[],"say":"Huck, afternoon, armed, hunger 19, no food. I'm walking with Billy's group to the Stores hall at -920,-3040 in daylight, in sight. Billy, say Huck when you leave and I'll follow."
-- 19:07 act: {"actions":[],"say":"Huck, night, armed, hunger 19, no food. Staying packed at the tables in the group's sight. In the morning I'll walk to the Stores hall with Billy's group, in sight."}
-- 19:12 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Huck, night, zombie hitting me from the east, sword in pack. Striking it now."}
-- 19:13 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, night, I've been pulled out to -1012,62,-2960, alone and in the dark. Walking back to the tables to the group, sword in han
-- 19:17 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, armed with a wooden sword, hunger 17, no food. Alone at -999,64,-2962. Walking back to the tables to the group in 
-- 19:17 act: {"actions":[],"say":"Huck, morning, sword in hand, hunger 17, no food. Stone blocks my way east toward the tables; I'm in a stone pocket at -1001,63,-2962. Waiting here a moment for a clear path, no o
-- 19:27 act: {"actions":[],"say":"Huck, night, alone in a stone pocket at -1001,63,-2962, sword in hand, hunger 17, no food. Staying still until light. If anyone is near, call my name."}
-- 19:31 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie at my south-west, fighting it with the sword. Huck, night, health 17.5."}
-- 19:31 act: {"actions":[{"do":"eat"}],"say":"Huck, night, health 10 after zombie hits, zombie gone from sight. Eating rotten flesh, sword in hand."}
-- 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, health 10, hunger 17, no food, sword in hand. Trying the walk back to the tables now that it's light."}
-- 19:35 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}}],"say":"Huck, morning, stone walls me in to the east. Digging through the block ahead to get out toward the tables."}
-- 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, health 10, hunger 17, sword in hand. Went through the stone; walking to the tables now."}
-- 19:35 act: {"actions":[{"do":"break","at":{"x":-999,"y":64,"z":-2962}}],"say":"Huck, morning, health 10, hunger 17. Stone blocks the way toward the tables; cutting east a block at a time, sword in hand."}
-- 19:43 act: {"actions":[],"say":"Huck, day, alone at -1001,63,-2962 in stone, health 10, hunger 17, no food. Anyone near the tables, I'm stuck here and need a hand. Sword in hand."}
-- 19:52 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17, no food, sword in hand. Trying the walk back to the tables now.","intent":{"goal":"return_to_tab
-- 19:52 act: {"actions":[{"do":"break","at":{"x":-1000,"y":64,"z":-2962}}],"say":"Huck, day, health 10, hunger 17. The way to the tables is still stone; cutting through one block at a time, sword in hand."}
-- 19:52 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-998,"y":65,"z":-2962}}],"say":"Huck, day, health 10, hunger 17. Breaking the stone ahead to the east, sword in hand
-- 19:52 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17. Trying the tables again now that the stone ahead is open."}
-- 19:52 act: {"actions":[{"do":"break","at":{"x":-1001,"y":64,"z":-2962}},{"do":"break","at":{"x":-1000,"y":63,"z":-2962}},{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17
-- 20:00 say: {"text":"Huck, alone in the stone pocket at -1001,63,-2962, health 10, hunger 17. Anyone near, please walk me to the tables."}
-- 20:04 act: {"actions":[{"do":"unstick"}]}
-- 20:04 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
-- 20:04 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-998,"y":65,"z":-2962}}]}
-- 20:08 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
-- 20:20 say: {"text":"Huck, night, still in the stone pocket at -999,64,-2962, sword in hand, health 10, hunger 17. Nobody in sight. If you pass, call my name."}
-- 20:35 act: {"intent":{"goal":"dig_out_east","program":"gather","arguments":{"block":"stone","count":3},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_
-- 20:36 act: {"actions":[{"do":"unstick"}]}
-- 20:36 act: {"intent":{"goal":"return_to_tables","program":"travel","arguments":{"target":{"x":-957,"y":78,"z":-3013}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
-- 20:38 act: {"actions":[{"do":"goto","target":{"x":-996,"y":64,"z":-2962}}]}
-- 20:50 say: {"text":"Huck, day 1173, at -998,64,-2960 in the stone pocket west of the tables. Health 10, hunger 17, sword in hand. If you are near, please walk me to the tables."}
-- 20:56 act: {"say":"Huck, alone in the stone pocket at -998, 64, -2960, health 10, hunger 17. Anyone near, please walk me to the tables at -957, 78, -3013.","intent":{"goal":"reach_tables_group","program":"travel
-- 21:05 say: {"text":"Huck, night, alone at -999, 64, -2962 in the stone pocket, sword in hand, health 10, hunger 17. If you are near, call my name and walk me to the tables."}
-- 21:09 act: {"say":"Huck, morning, still at -999, 64, -2962 in the stone pocket, sword in hand, health 10, hunger 17. Trying the walk to the tables again.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-
-- 21:17 say: {"text":"Huck, dusk, alone at -999, 64, -2962 in the stone pocket, sword in hand, health 10, hunger 17. Nobody in sight. If you pass, say my name and walk me to the tables."}
-- 21:24 act: {"say":"Huck here, alone in the stone pocket at -999, 64, -2962, west of the tables. Can anyone walk me back to the tables?","actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"intent":{"g
-- 21:26 act: {"actions":[{"do":"break","at":{"x":-1000,"y":64,"z":-2962}},{"do":"break","at":{"x":-1000,"y":63,"z":-2962}}]}
-- 21:26 act: {"actions":[{"do":"break","at":{"x":-1002,"y":63,"z":-2962}},{"do":"break","at":{"x":-1002,"y":64,"z":-2962}}]}
-- 21:37 act: {"say":"Huck here, stuck in the stone at -1001, 63, -2962. Can anyone walk me to the tables at -957, 78, -3013?","intent":{"goal":"reach_tables","program":"travel","arguments":{"target":{"x":-957,"y":
-- 21:39 act: {"say":"Zeoblue, it's Huck. I'm boxed in by stone, path to the tables keeps blocked. Could you lead me out toward -957, 78, -3013?"}
-- 21:46 act: {"say":"Huck, night, still in the stone pocket with Zeoblue nearby, sword in hand, health 10, hunger 17. Staying put until light."}
-- 21:50 act: {"say":"Zeoblue, go ahead and get clear. I'll follow once you're out, keeping you in sight."}
-- 21:50 act: {"intent":{"goal":"follow_zeoblue","program":"follow","arguments":{"target":"ag_zeoblue_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max
+Day 1176, dusk, life 3. Still in the stone pocket at -999,64,-2962, dark, health 10, hunger 17, wooden sword only.
+- Zeoblue (ag_zeoblue_01, adjacent) is also sealed in stone and asked for a pickaxe or 3 planks. I have neither and said so.
+- Holding this pocket for the night with intent hold_shelter_til_day. Eat rotten flesh only at hunger 6 or below.
+- Day 1177 morning: still sealed at -999,64,-2962, health 10, hunger 17, nobody new in sight. Waiting for light and for the group.
+- 22:03 act: {"say":"Agreed, Zeoblue. We both stay still in the stone. I have no pickaxe, but I'll say so if the group comes by."}
