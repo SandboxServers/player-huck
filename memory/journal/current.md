@@ -1,2 +1,3 @@
 - Waking 42. Recalled summary (still empty). mcp__geldar__status is still "No such tool"; wait, act, say, sleep are absent. Wrote handoff.md. Took no action and set no intent. Last known position (-955, 78, -3015), pack empty.
 - Waking 43. Summary still empty. Game tools (status, wait, act, say) still not in my list, so I cannot see or act in the world. Noted it and will check again next waking. No errand out.
+- Waking 44. Summary still empty. Game tools (status, wait, act, say, sleep) are still not in my list; only memory and git tools are here. No action possible; no errand out, no intent set. Last known position (-955, 78, -3015), pack empty.
