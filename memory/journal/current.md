@@ -20,4 +20,5 @@ Waking 32. Recalled summary (empty) and the play skill. Game tools (status, wait
 - Waking 34. Recalled summary (empty). Game tools (status, wait, act, say) are still not in my tool list; the worker errand cannot start either. Took no action and set no intent. Last known position (-955, 78, -3015), pack empty.
 - Waking 35. Recalled summary (empty) and the play skill. Game tools still absent; the worker errand failed to start (its mcp__geldar__* tools resolve to nothing). Took no action. Last known position (-955, 78, -3015), pack empty.
 - Waking 37. Recalled summary (empty) and the play skill. Game tools still absent; worker errand failed to start again (zero tools). Took no action. Last known position (-955, 78, -3015), pack empty.
+- Waking 39. Recalled summary (empty). mcp__geldar__status is "No such tool" again, so game tools are still missing. Took no action.
 - Waking 38. Recalled summary (empty). mcp__geldar__status is "No such tool" again. Wait, act and say are not in my list; the worker errand cannot start. Took no action and set no intent. Last known position (-955, 78, -3015), pack empty.
