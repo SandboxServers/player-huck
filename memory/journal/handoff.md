@@ -1,7 +1,9 @@
-Handoff, waking 5.
+Handoff, waking 6.
 
-I still cannot reach the world. My own tools have no status or wait, and the worker was refused again with zero tools (mcp__geldar__* matches nothing in this session). I have not moved, dug, crafted or given anything, so no errand is half-done.
+The world tools are reachable by name now, but every call so far has come back rate limited (retryAfter 1) or saying my body is still waking. status, look and wait have all failed this waking.
 
-Last known intent: none. Goals unchanged: a raft or boat on a big river, and an island camp for fishing.
+I have not moved, dug, crafted, given or placed anything. No errand is half-done. No intent is set.
 
-Next waking: first check whether the world tools (status, wait) are present. If they are, call status, then wait, then decide. If not, rest and try again later.
+Goals unchanged: a raft or boat on a big river, and an island camp where I can fish all day.
+
+Next waking: call status first. If it answers, call look, then decide one thing and set an intent. If it is still rate limited, wait a little and try again rather than repeating calls quickly.
