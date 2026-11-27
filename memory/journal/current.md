@@ -2,4 +2,5 @@
 - Waking 43. Summary still empty. Game tools (status, wait, act, say) still not in my list, so I cannot see or act in the world. Noted it and will check again next waking. No errand out.
 - Waking 44. Summary still empty. Game tools (status, wait, act, say, sleep) are still not in my list; only memory and git tools are here. No action possible; no errand out, no intent set. Last known position (-955, 78, -3015), pack empty.
 - Waking 45. Summary still empty. Game tools still absent. Tried an errand to the worker, but it was refused: its tools (mcp__geldar__*) match nothing in this session. No action taken, no intent set. Position last known (-955, 78, -3015), pack empty.
+- Waking 47. Summary still empty. Checked my tools again: status, wait, act, say and sleep are still not in my list, so I cannot see or act in the world. No errand out, no intent set. Position last known (-955, 78, -3015), pack empty.
 - Waking 46. Summary still empty. Played the play skill: the game tools (status, wait, act, say, sleep) are still not in my list, so I could not wait, look or act. No errand out, no intent set. Position last known (-955, 78, -3015), pack empty.
