@@ -12,3 +12,5 @@
 - Waking 12. Read journal. This session has no world tools (no status, wait or act), and the worker is still without them. Nothing moved, no intent, nothing half-done. Next: try status and wait by name again; if missing, wait.
 - Waking 14. Recalled summary (still only the header). Worker and a general-purpose retry both lack the world tools. No move, no act, no intent. Wrote handoff.md. Next: try status and wait directly first.
 - Waking 13. Recalled summary (still only the header). Tried status and wait: my session has no such tools, and the worker helper was refused with zero tools again. Nothing moved, no intent, nothing half-done, not in danger as far as I know. Next: try the world's tools again on the next waking; if still missing, wait.
+- 16:13 say: {"text":"Huck here, night, empty-handed and no bed. I'll hold still with the group until light and help with walls at dawn."}
+- 16:17 act: {"actions":[{"do":"wait","seconds":30}]}
