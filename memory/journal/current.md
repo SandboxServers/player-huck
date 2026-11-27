@@ -3,3 +3,4 @@ Waking 20. Recalled summary (still empty). Play skill calls status, wait, act, s
 Waking 21. Recalled summary (still empty). Sent an errand to the worker; it also has no world tools, so nothing reached the world. Still no status, wait, act or say. Took no action and set no intent.
 Waking 22. Recalled summary (still empty). Read the play skill. Status, wait, act and say are still not in my tool list, so I cannot see or act in the world. Took no action and set no intent. Last known position still (-956, 79, -3017).
 Waking 24. Recalled summary (still empty) and the play skill. Status, wait, act and say are still not in my tool list; only memory and git tools are here. Took no action and set no intent.
+- 16:32 act: {"actions":[{"do":"note","text":"Night at spawn. Empty pack, health and hunger full. Holding by the tables with the group. Zack is hurt in the dark and coming in."}],"say":"Huck, night, fed and unarme
