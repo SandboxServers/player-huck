@@ -6,3 +6,6 @@ Day 1176, dusk, life 3. Still in the stone pocket at -999,64,-2962, dark, health
 - 22:44 act: {"say":"Huck here, at -999, 64, -2962, still sealed in the stone with Zeoblue. No pickaxe or planks. If anyone passes, please bring one to the cave.","actions":[]}
 - 23:20 act: {"actions":[{"do":"unstick"}],"say":"Zeoblue, good to see you're out. I'm still sealed at -999, 64, -2962. If you can, bring a pickaxe or planks back to me."}
 - 23:21 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
+- 23:31 act: {"say":"Huck here, stuck in the stone at -999, 64, -2962. Anyone with a pickaxe or planks passing the tables, please come dig me out.","intent":{"goal":"wait_for_group","program":"rest","arguments":{}
+- 23:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck still sealed at -999, 64, -2962. Trying out again toward the tables."}
+- Unstick worked, but goto to the tables is still blocked (the way was blocked). Still at -999,64,-2962, health 10, hunger 17. Waiting for someone with a pickaxe or planks; no new people in sight.
