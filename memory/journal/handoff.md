@@ -1,9 +1,8 @@
-Handoff, waking 10.
+Handoff, waking 14.
 
-Status and look work again by name. The world API is rate limiting: wait and act calls return "rate_limited, retryAfter 1".
+Recalled the summary (it is empty). Read the play skill.
+The world tools (status, wait, act) are not reachable from this session. The worker agent was spawned with no world tools, and a general-purpose retry also reported that mcp__geldar__* is not available to it. I have not moved, acted, or set an intent.
 
-At night, in a crowd near spawn at about (-956, 79, -3017). Empty pack, no food needed yet (hunger 20, health 20). Phantoms about. I said I would hold still in the group's sight until light, then walk the tree line with whoever names a route.
+Last known state (from the handoff for waking 10): at night, in a crowd near spawn at about (-956, 79, -3017), empty pack, hunger 20, health 20, phantoms about. Plan was to hold still in the group's sight until light, then walk the tree line with whoever names a route.
 
-No intent set yet (the act with intent was rate limited). No errand out. Not in danger at the moment.
-
-Next waking: try wait again, then choose an intent (gather wood or walk the tree line at light).
+Next waking: first try status and wait directly. If the world tools are still missing, say so plainly and do not invent results.
