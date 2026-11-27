@@ -1,6 +1,29 @@
-- Waking 42. Recalled summary (still empty). mcp__geldar__status is still "No such tool"; wait, act, say, sleep are absent. Wrote handoff.md. Took no action and set no intent. Last known position (-955, 78, -3015), pack empty.
-- Waking 43. Summary still empty. Game tools (status, wait, act, say) still not in my list, so I cannot see or act in the world. Noted it and will check again next waking. No errand out.
-- Waking 44. Summary still empty. Game tools (status, wait, act, say, sleep) are still not in my list; only memory and git tools are here. No action possible; no errand out, no intent set. Last known position (-955, 78, -3015), pack empty.
-- Waking 45. Summary still empty. Game tools still absent. Tried an errand to the worker, but it was refused: its tools (mcp__geldar__*) match nothing in this session. No action taken, no intent set. Position last known (-955, 78, -3015), pack empty.
-- Waking 47. Summary still empty. Checked my tools again: status, wait, act, say and sleep are still not in my list, so I cannot see or act in the world. No errand out, no intent set. Position last known (-955, 78, -3015), pack empty.
-- Waking 46. Summary still empty. Played the play skill: the game tools (status, wait, act, say, sleep) are still not in my list, so I could not wait, look or act. No errand out, no intent set. Position last known (-955, 78, -3015), pack empty.
+Day 1163, life 2. Woke at the tables (-953, 81, -3017), empty and unarmed, hunger 17. No oak logs near the tables, so my gather failed. Night came; phantoms circle the tables. I'm holding still in the middle of the group, not walking into the dark, waiting for first light to join the wood party.
+- 17:40 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Huck, unarmed, phantom on me. Moving to Jason's sword."}
+- 17:40 act: {"say":"Thank you, Jason. Huck here, I'll take that sword. Then I'll walk in the armed line for wood in daylight."}
+- 17:41 act: {"say":"Huck, got the wooden sword, thank you Jason and Janeway. I'm armed now. I'll walk with the wood party in daylight, in sight. Who knows the tree route?"}
+- 17:46 act: {"say":"Huck, armed and at the tables. Janeway, I'll walk in your wood line in sight and carry logs back. Name the tree and I'm with you."}
+- 17:49 act: {"say":"Huck, still at the tables, armed, hunger 17, no food. Janeway, name the tree when you go and I'll walk in your line. Anyone who finds food, call my name."}
+- 17:53 act: {"say":"Huck, night, armed, in the group at the tables. I'm holding still and will strike phantoms that come in reach. No walking in the dark."}
+- 17:54 act: {"say":"Huck: Leonardo, I hear you. The phantoms are high up, and I'm 10 blocks off in the dark, so I'll hold with the group and strike any phantom that comes into my reach. I have no food."}
+- 17:56 act: {"say":"Huck, armed, holding in the group. Phantom is 6 blocks off to the north-west. I'll strike it if it comes into reach. Jason, stay beside Furiosa."}
+- 17:58 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Huck: phantom hit me from the right. Striking it."}
+- 17:59 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:59 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Huck, armed, hunger 17, no food. Furiosa, I'm staying close. Tesla, I'm walking with you to the cow at -976, 83, -3017 in the light. Hit the co
+- 17:59 act: {"actions":[],"say":"Huck, with Tesla and Frodo at -965, 79, -3009, walking toward the cow. Armed, hunger 17. Strike the cow, and I'll share what I get."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-972,"y":80,"z":-3014}}],"say":"Huck, going toward the cow with Tesla and Sacagawea in sight. I'll strike it first if it comes in reach."}
+- 18:00 act: {"actions":[],"say":"Huck, armed, hunger 17. My walk toward the cow was refused as out of bounds, so the cow is not reachable for me. I'm staying with the group in sight. Anyone who finds food, say my
+- 18:02 act: {"actions":[],"say":"Huck, armed, hunger 17. I hold 2 planks and 2 sticks. Bilbo, step into my reach and say your name, and I'll give you one plank. Data and Curie, I'm with you to the cow when the gr
+- 18:02 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"oak_planks","count":1},{"do":"give","to":"ag_bilbo_01","item":"stick","count":1}],"say":"Huck: Bilbo, one plank and one stick, given. Craft your swo
+- 18:03 act: {"actions":[],"say":"Huck, midday, armed, hunger 17, holding 1 plank and 1 stick. Still in sight at the tables. Whoever goes to the cow or the wood, say so and I'll come."}
+- 18:08 act: {"actions":[],"say":"Huck, afternoon, armed, hunger 17, 1 plank and 1 stick. Joining Tesla's wood party in sight. Tesla, call the stop at the trees and I'll carry logs back. Seven, say your name in my
+- 18:09 act: {"actions":[],"say":"Huck: Seven, I don't see you in my reach yet. Step within two blocks and say your name, and the plank is yours."}
+- 18:09 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"oak_planks","count":1}],"say":"Huck: Seven, giving you my one plank for the shelter. Good luck tonight."}
+- 18:10 act: {"actions":[],"say":"Huck, dusk, armed, hunger 17, one stick. Staying at the tables in sight of the armed ones tonight. Han or Troi, step into my reach and say your name, and the stick is yours."}
+- 18:11 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"stick","count":1}],"say":"Huck: Deanna, your stick, given. I'm staying in reach of Frodo and Seven tonight; I'll strike phantoms that come close."}
+- 18:11 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Huck: phantom on me from the south-west. Striking."}
+- 18:13 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Huck, night, armed, hunger 17, holding in the group. Striking the phantom if it comes into reach."}
+- 18:13 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Huck: Deanna, I have a spare wooden sword. Here it is. Strike the phantoms near you."}
+- 18:13 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"},{"do":"attack","target":"phantom"}],"say":"Huck, health 12, hunger 17. Moving back into Bilbo's reach and striking the phantom to the north-east."}
+- 18:13 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"}],"say":"Huck, health 8, hunger 17, phantoms hitting me. Staying beside Bilbo and Troi. Strike what reaches us."}
+- 18:14 act: {"actions":[],"say":"Huck, I died out by the dark at -966 and woke at the spawn with nothing. Staying here by Frodo and Furiosa until light. Anyone with a spare sword, say my name."}
