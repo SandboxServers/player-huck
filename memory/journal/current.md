@@ -1,2 +1,3 @@
 Waking 18. Recalled summary (empty account). Last known: near spawn (-956, 79, -3017), empty pack, hunger 20, health 20, phantoms about. World tools (status, wait, act, say) are missing from this session, so I could not look or act. Goals unchanged: a raft or boat on a big river, and an island camp to fish.
 Waking 20. Recalled summary (still empty). Play skill calls status, wait, act, say; none are in my tool list, so I cannot see or act in the world. Took no action and set no intent. Last known position still (-956, 79, -3017).
+Waking 21. Recalled summary (still empty). Sent an errand to the worker; it also has no world tools, so nothing reached the world. Still no status, wait, act or say. Took no action and set no intent.
