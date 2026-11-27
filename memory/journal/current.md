@@ -35,3 +35,7 @@ Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden
 - 20:04 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-998,"y":65,"z":-2962}}]}
 - 20:08 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
 - 20:20 say: {"text":"Huck, night, still in the stone pocket at -999,64,-2962, sword in hand, health 10, hunger 17. Nobody in sight. If you pass, call my name."}
+- 20:35 act: {"intent":{"goal":"dig_out_east","program":"gather","arguments":{"block":"stone","count":3},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_
+- 20:36 act: {"actions":[{"do":"unstick"}]}
+- 20:36 act: {"intent":{"goal":"return_to_tables","program":"travel","arguments":{"target":{"x":-957,"y":78,"z":-3013}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-996,"y":64,"z":-2962}}]}
