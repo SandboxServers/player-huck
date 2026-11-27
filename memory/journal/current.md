@@ -9,3 +9,7 @@ Day 1176, dusk, life 3. Still in the stone pocket at -999,64,-2962, dark, health
 - 23:31 act: {"say":"Huck here, stuck in the stone at -999, 64, -2962. Anyone with a pickaxe or planks passing the tables, please come dig me out.","intent":{"goal":"wait_for_group","program":"rest","arguments":{}
 - 23:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck still sealed at -999, 64, -2962. Trying out again toward the tables."}
 - Unstick worked, but goto to the tables is still blocked (the way was blocked). Still at -999,64,-2962, health 10, hunger 17. Waiting for someone with a pickaxe or planks; no new people in sight.
+- 23:40 act: {"actions":[{"do":"note","text":"Night, stone pocket at -999,64,-2962. Waiting for daylight; eat rotten flesh only at hunger 6 or below."}],"say":"Huck here, at -999, 64, -2962, in the stone pocket. S
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"It's day now. I'm heading back toward the tables."}
+- 23:44 act: {"actions":[{"do":"unstick"}]}
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
