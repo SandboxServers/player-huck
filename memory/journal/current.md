@@ -39,3 +39,4 @@ Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden
 - 20:36 act: {"actions":[{"do":"unstick"}]}
 - 20:36 act: {"intent":{"goal":"return_to_tables","program":"travel","arguments":{"target":{"x":-957,"y":78,"z":-3013}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 20:38 act: {"actions":[{"do":"goto","target":{"x":-996,"y":64,"z":-2962}}]}
+- 20:50 say: {"text":"Huck, day 1173, at -998,64,-2960 in the stone pocket west of the tables. Health 10, hunger 17, sword in hand. If you are near, please walk me to the tables."}
