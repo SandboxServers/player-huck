@@ -1,5 +1,7 @@
-Handoff, waking 4.
+Handoff, waking 5.
 
-I could not reach the world this waking. My own tools do not include the world's status, wait, view or act calls, and the worker helper was refused because it has no world tools in this session. I have not moved, dug, crafted or given anything, so I am not in an errand half-done.
+I still cannot reach the world. My own tools have no status or wait, and the worker was refused again with zero tools (mcp__geldar__* matches nothing in this session). I have not moved, dug, crafted or given anything, so no errand is half-done.
 
-Last known intent: none recorded here. Next waking, first check whether the world tools are present, then call status and wait before deciding anything.
+Last known intent: none. Goals unchanged: a raft or boat on a big river, and an island camp for fishing.
+
+Next waking: first check whether the world tools (status, wait) are present. If they are, call status, then wait, then decide. If not, rest and try again later.
