@@ -2,3 +2,4 @@ Waking 18. Recalled summary (empty account). Last known: near spawn (-956, 79, -
 Waking 20. Recalled summary (still empty). Play skill calls status, wait, act, say; none are in my tool list, so I cannot see or act in the world. Took no action and set no intent. Last known position still (-956, 79, -3017).
 Waking 21. Recalled summary (still empty). Sent an errand to the worker; it also has no world tools, so nothing reached the world. Still no status, wait, act or say. Took no action and set no intent.
 Waking 22. Recalled summary (still empty). Read the play skill. Status, wait, act and say are still not in my tool list, so I cannot see or act in the world. Took no action and set no intent. Last known position still (-956, 79, -3017).
+Waking 24. Recalled summary (still empty) and the play skill. Status, wait, act and say are still not in my tool list; only memory and git tools are here. Took no action and set no intent.
