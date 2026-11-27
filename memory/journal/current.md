@@ -16,3 +16,11 @@ Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden
 - 19:13 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, night, I've been pulled out to -1012,62,-2960, alone and in the dark. Walking back to the tables to the group, sword in han
 - 19:17 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, armed with a wooden sword, hunger 17, no food. Alone at -999,64,-2962. Walking back to the tables to the group in 
 - 19:17 act: {"actions":[],"say":"Huck, morning, sword in hand, hunger 17, no food. Stone blocks my way east toward the tables; I'm in a stone pocket at -1001,63,-2962. Waiting here a moment for a clear path, no o
+- 19:27 act: {"actions":[],"say":"Huck, night, alone in a stone pocket at -1001,63,-2962, sword in hand, hunger 17, no food. Staying still until light. If anyone is near, call my name."}
+- 19:31 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie at my south-west, fighting it with the sword. Huck, night, health 17.5."}
+- 19:31 act: {"actions":[{"do":"eat"}],"say":"Huck, night, health 10 after zombie hits, zombie gone from sight. Eating rotten flesh, sword in hand."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, health 10, hunger 17, no food, sword in hand. Trying the walk back to the tables now that it's light."}
+- 19:35 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}}],"say":"Huck, morning, stone walls me in to the east. Digging through the block ahead to get out toward the tables."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, health 10, hunger 17, sword in hand. Went through the stone; walking to the tables now."}
+- 19:35 act: {"actions":[{"do":"break","at":{"x":-999,"y":64,"z":-2962}}],"say":"Huck, morning, health 10, hunger 17. Stone blocks the way toward the tables; cutting east a block at a time, sword in hand."}
+- 19:43 act: {"actions":[],"say":"Huck, day, alone at -1001,63,-2962 in stone, health 10, hunger 17, no food. Anyone near the tables, I'm stuck here and need a hand. Sword in hand."}
