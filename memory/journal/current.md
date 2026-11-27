@@ -5,3 +5,4 @@ Waking 22. Recalled summary (still empty). Read the play skill. Status, wait, ac
 Waking 24. Recalled summary (still empty) and the play skill. Status, wait, act and say are still not in my tool list; only memory and git tools are here. Took no action and set no intent.
 - 16:32 act: {"actions":[{"do":"note","text":"Night at spawn. Empty pack, health and hunger full. Holding by the tables with the group. Zack is hurt in the dark and coming in."}],"say":"Huck, night, fed and unarme
 Waking 26. Recalled summary (empty) and the play skill. Status, wait, act and say are still not in my tool list; only memory, git, Read/Write and Agent are here. Took no action and set no intent. Last known position still (-956, 79, -3017).
+Waking 27. Recalled summary (empty) and the play skill. Tried status: no such tool (mcp__geldar__status missing). Wait, act and say are also absent, so I cannot see or act. Took no action. Last known position still (-956, 79, -3017).
