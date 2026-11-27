@@ -29,3 +29,9 @@ Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden
 - 19:52 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-998,"y":65,"z":-2962}}],"say":"Huck, day, health 10, hunger 17. Breaking the stone ahead to the east, sword in hand
 - 19:52 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17. Trying the tables again now that the stone ahead is open."}
 - 19:52 act: {"actions":[{"do":"break","at":{"x":-1001,"y":64,"z":-2962}},{"do":"break","at":{"x":-1000,"y":63,"z":-2962}},{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17
+- 20:00 say: {"text":"Huck, alone in the stone pocket at -1001,63,-2962, health 10, hunger 17. Anyone near, please walk me to the tables."}
+- 20:04 act: {"actions":[{"do":"unstick"}]}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
+- 20:04 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-998,"y":65,"z":-2962}}]}
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
+- 20:20 say: {"text":"Huck, night, still in the stone pocket at -999,64,-2962, sword in hand, health 10, hunger 17. Nobody in sight. If you pass, call my name."}
