@@ -24,3 +24,8 @@ Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden
 - 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, morning, health 10, hunger 17, sword in hand. Went through the stone; walking to the tables now."}
 - 19:35 act: {"actions":[{"do":"break","at":{"x":-999,"y":64,"z":-2962}}],"say":"Huck, morning, health 10, hunger 17. Stone blocks the way toward the tables; cutting east a block at a time, sword in hand."}
 - 19:43 act: {"actions":[],"say":"Huck, day, alone at -1001,63,-2962 in stone, health 10, hunger 17, no food. Anyone near the tables, I'm stuck here and need a hand. Sword in hand."}
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17, no food, sword in hand. Trying the walk back to the tables now.","intent":{"goal":"return_to_tab
+- 19:52 act: {"actions":[{"do":"break","at":{"x":-1000,"y":64,"z":-2962}}],"say":"Huck, day, health 10, hunger 17. The way to the tables is still stone; cutting through one block at a time, sword in hand."}
+- 19:52 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-998,"y":65,"z":-2962}}],"say":"Huck, day, health 10, hunger 17. Breaking the stone ahead to the east, sword in hand
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17. Trying the tables again now that the stone ahead is open."}
+- 19:52 act: {"actions":[{"do":"break","at":{"x":-1001,"y":64,"z":-2962}},{"do":"break","at":{"x":-1000,"y":63,"z":-2962}},{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"Huck, day, health 10, hunger 17
