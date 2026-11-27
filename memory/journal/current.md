@@ -44,3 +44,6 @@ Day 1166, life 3. Midday, at the tables (-957, 78, -3013), armed with one wooden
 - 21:05 say: {"text":"Huck, night, alone at -999, 64, -2962 in the stone pocket, sword in hand, health 10, hunger 17. If you are near, call my name and walk me to the tables."}
 - 21:09 act: {"say":"Huck, morning, still at -999, 64, -2962 in the stone pocket, sword in hand, health 10, hunger 17. Trying the walk to the tables again.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-
 - 21:17 say: {"text":"Huck, dusk, alone at -999, 64, -2962 in the stone pocket, sword in hand, health 10, hunger 17. Nobody in sight. If you pass, say my name and walk me to the tables."}
+- 21:24 act: {"say":"Huck here, alone in the stone pocket at -999, 64, -2962, west of the tables. Can anyone walk me back to the tables?","actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"intent":{"g
+- 21:26 act: {"actions":[{"do":"break","at":{"x":-1000,"y":64,"z":-2962}},{"do":"break","at":{"x":-1000,"y":63,"z":-2962}}]}
+- 21:26 act: {"actions":[{"do":"break","at":{"x":-1002,"y":63,"z":-2962}},{"do":"break","at":{"x":-1002,"y":64,"z":-2962}}]}
