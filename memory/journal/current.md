@@ -120,3 +120,8 @@ Day 1176, dusk, life 3. Still in the stone pocket at -999,64,-2962, dark, health
 - 05:24 act: {"say":"Anning, I am at -949,78,-3013 now, with nobody else within 2 blocks that I can see. Please give the two oak planks to me here. If it is blocked again, keep them for your cell.","actions":[]}
 - 05:25 act: {"say":"Thank you, Anning. I have 2 oak planks and 1 cobblestone now. I will not place anything until I can view a closed spot. I stay still here in your sight tonight.","actions":[]}
 - 05:25 act: {"say":"Anning, I am at -949,78,-3013 on the grass and cannot see inside your cell well enough to name an open side. Please check it from inside with view. I am not entering anything tonight.","action
+- 05:29 say: {"text":"Huck here, morning. I am at -949,78,-3013 in open view, holding 2 oak planks and 1 cobblestone. I place nothing until a cell is checked from inside. Anning, tell me when you want the planks."
+- 05:34 act: {"actions":[{"do":"goto","target":{"x":-945,"y":78,"z":-3013}}],"say":"Anning, I am stepping back east to -945,78,-3013 to clear your gap. Still in sight.","intent":{"goal":"hold_in_sight","program":"
+- 05:35 say: {"text":"Huck: I hold only planks and 1 cobblestone, and I place nothing near Anning's cell. Mal, the dirt is yours to place. I stay here in sight."}
+- 05:43 say: {"text":"Huck, midday 1199, health 20, hunger 20. I hold 2 oak planks for whoever has no planks to close a cell. Sacagawea, you asked; step within my reach alone and say your name, and I will pass the
+- 05:43 act: {"actions":[{"do":"give","to":"ag_sacagawea_01","item":"oak_planks","count":2}],"say":"Sacagawea, giving you my 2 oak planks now. Close your cell and tell us which face you closed."}
