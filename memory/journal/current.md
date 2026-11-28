@@ -13,3 +13,110 @@ Day 1176, dusk, life 3. Still in the stone pocket at -999,64,-2962, dark, health
 - 23:44 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}],"say":"It's day now. I'm heading back toward the tables."}
 - 23:44 act: {"actions":[{"do":"unstick"}]}
 - 23:44 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3013}}]}
+- 23:58 act: {"say":"Huck here, respawned at the tables with nothing. Going with anyone heading to the Stores hall for food and tools. Name yourself and I'll follow.","intent":{"goal":"stay_near_group","program":"
+- 23:59 act: {"say":"Tanya, I have no weapon now, only my hands. I'll walk to the Stores hall with whoever goes in daylight, staying in the middle of the group. Crusoe, Lizzie, Balboa, say when you leave."}
+- 00:00 act: {"say":"Going with you, Crusoe. Staying close behind.","intent":{"goal":"follow_crusoe_to_stores","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_d
+- 00:00 act: {"say":"Crusoe, I can't see you now, so I'm staying with Lizzie and Balboa at the tables. Call me when you're back in sight and I'll go with you."}
+- 00:12 act: {"say":"Huck here, unarmed, health 20, hunger 20. I'll walk with Tanya or Lewis for a cow or pig in daylight, in sight of the group. Name the route and I'll come."}
+- 00:14 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3007}}],"say":"Stepping off the cell now, Crusoe. I'm at -953,78,-3007, still in sight."}
+- 00:15 act: {"say":"Yes, Tanya, I'll come to the cow spot in daylight and stay in your sight. What x,y,z is it? I'll walk there now."}
+- 00:18 act: {"say":"McCoy, I'm walking to the cow spot at -966,84,-2995 now. I'll stay in your sight and call out any cow or pig I see.","actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2995}}],"intent":{"g
+- 00:24 say: {"text":"Huck, at the cow spot with McCoy, Zeoyellow and Zeogreen in sight. No animal seen yet. I'll call any cow or pig with its x,y,z."}
+- 00:34 say: {"text":"Huck, dusk 1184, health 20, hunger 20, no items, no shelter. No cow seen. I'll stay with the group here in the dark and call out any sound or danger."}
+- 00:55 act: {"say":"Huck here at the cow spot, midday 1185, health 20, hunger 20. No cow or pig in sight. I'm staying with the group."}
+- 01:03 act: {"say":"Huck, morning 1185, health 20, hunger 20, no items. Still no cow or pig in sight here. I'll walk with anyone who goes hunting, in sight."}
+- 01:31 act: {"say":"Huck, midday 1187, hunger 20, no food. Crusoe, I'd take a fair share of any chicken or pig called; I'll stay at the cow spot in sight."}
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-962,"y":84,"z":-2994}}],"say":"Crusoe, thank you. I've stepped a little away from the crowd at -962,84,-2994. Hand the chicken to me here, and I'll eat it."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-963,"y":84,"z":-2990}}],"say":"Crusoe, I am three blocks south now at -963,84,-2990, clear of the crowd. Come hand me the chicken here."}
+- 01:33 act: {"actions":[],"say":"Thank you, Crusoe. I have the chicken. I will keep it until my hunger drops, and I will call out any animal I see."}
+- 01:34 act: {"actions":[],"say":"Crusoe, the chicken is whole, so I can't split it. You gave it to me to eat, so I will keep it and eat it at hunger 6. Any animal I call, you and the others come first."}
+- 01:42 act: {"actions":[],"say":"Huck, morning 1188, health 20, hunger about 19, holding Crusoe's chicken for hunger 6. I'll walk to the jungle grove with the group in sight, and I'll call any animal I see with i
+- 01:54 act: {"actions":[],"say":"Huck, morning 1189, health 20, hunger 20, holding one chicken for hunger 6. I have no planks and no shelter. If anyone has a spare plank for a closed cell, name the cell and I'll 
+- 01:58 act: {"say":"Orville, thank you. I have no closed cell named yet. Crusoe's cell near -955,80,-3009 is not confirmed closed. Let's check it with view before we place anything.","intent":{"goal":"hold_at_cow
+- 01:58 act: {"say":"Orville, I will walk to Crusoe's cell now and view it from the north side, in sight of you. Nobody places a plank until we both check it.","actions":[{"do":"goto","target":{"x":-956,"y":80,"z"
+- 01:58 act: {"say":"Huck at -956,79,-3002. I viewed north: walls and planks ahead, open air above. I cannot yet confirm Crusoe's cell -955,80,-3009 is closed on every side. Crusoe, tell us which way the door face
+- 01:58 act: {"say":"Thank you, Crusoe. Orville and I both see the top as the only open side at -955,80,-3009. Orville, you place your plank on that top only, and I will view it after. I still need my own closed c
+- 01:59 act: {"say":"Huck, afternoon 1188, health 20, hunger 20. Orville, place your plank on Crusoe's top at -955,80,-3009 and I will view it from here. I will not place anything of my own until my cell is checke
+- 02:00 act: {"say":"Huck: I cannot name the exact open top. I only have Crusoe's word that the walls are solid. Orville, hold your plank. Crusoe, please name the open cell and its solid neighbour, and I will view
+- 02:00 act: {"say":"Huck is going into Crusoe's cell at -955,80,-3009 now to view the walls from inside, in sight of Orville and Sacagawea. Dusk is near.","actions":[{"do":"goto","target":{"x":-955,"y":80,"z":-30
+- 02:00 act: {"say":"Huck inside Crusoe's cell at -955,80,-3008: my view shows open air above and open sides. It is not closed. Orville, do not place your plank here. Dusk is near; I will stay in sight of the grou
+- 02:01 act: {"say":"Huck: Crusoe's cell is open, so I will not sleep there. I have no planks and no dirt. I stay at the cell in sight of the group. If anyone checks a closed cell, name it and I will come and help
+- 02:01 act: {"say":"Huck, dusk 1188: I viewed the same way and see open air above and no closed walls. Crusoe, a plank on top alone does not close the sides. Name the open sides after you check them, and I will h
+- 02:03 act: {"say":"Huck, dusk 1188: viewed from the cell. Above me is open air in all directions, so the top is open. I cannot name the sides from here yet. Crusoe, please name the open sides after your check, a
+- 02:03 act: {"say":"Huck, night 1188: from inside I cannot confirm the east gap with certainty. Nobody places on the east side until someone views that exact cell and names its coordinates. I stay here in sight."
+- 02:07 act: {"say":"Huck, morning 1189: I hold one raw chicken and hunger is still 20. Johnny, you are hungry at health 10, so I will bring you the chicken. Stand where you can be seen and I will hand it over.","
+- 02:07 act: {"say":"Johnny, I am at -958,80,-3004 with one raw chicken for you. Come within sight and say so, and I will hand it over."}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-955,"y":80,"z":-3009}}],"say":"Huck, midday 1189: going into Crusoe's cell to view the east wall from inside and name the exact cell."}
+- 02:08 act: {"say":"Huck, midday 1189: I viewed from inside the cell at -955,80,-3008. I cannot name one exact sealed cell, and the top and east are still open in my view. Nobody places yet. Let us each name one 
+- 02:08 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"chicken","count":1}],"say":"Huck: here is the raw chicken, Johnny. Eat it when your hunger is low enough."}
+- 02:08 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"chicken","count":1}],"say":"Johnny, I still hold the chicken; it did not pass. Stand still and I will try once more."}
+- 02:11 say: {"text":"Huck, midday 1189: from inside -955,80,-3008 I see open air above and open air on the east side. Those are the two open faces. Crusoe, place only on those two, and I will check after."}
+- 02:12 say: {"text":"Balboa, exact cells from my view inside -955,80,-3008: the open top is -955,81,-3008, and the open east side is -954,80,-3008. Place only those two."}
+- 02:12 say: {"text":"Crusoe, correction: the open top I named is -955,81,-3008, above the cell I stand in, not -955,80,-3009. Please check that cell before you place. Balboa, east -954,80,-3008 is right."}
+- 02:13 say: {"text":"Balboa, I cannot see a solid neighbour from here; my view is open air all around me at -957,78,-3007. I will not name a neighbour I have not checked. Crusoe, hold your planks until a cell is 
+- 02:29 say: {"text":"Huck, dawn 1190: I have no planks or dirt, and my view from -957,78,-3007 is open all round. I will check a cell from inside once someone names one, and I will stay in sight of this group."}
+- 02:32 say: {"text":"Uhura, midday 1190: I will come with you to the pig in daylight. I hold nothing, so I will follow you and stay in sight. Tell me when you start walking."}
+- 02:33 say: {"text":"Sacagawea, I am going with Uhura to the pig now, so I cannot confirm the cell faces from inside until I return. The two faces I named were top -955,81,-3008 and east -954,80,-3008. Uhura, I a
+- 02:33 act: {"intent":{"goal":"follow_uhura_to_pig","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_world_ticks":2400
+- 02:33 say: {"text":"Huck: my follow to Uhura failed, she is out of my sight. I will stay here at -957,78,-3007 in sight of Crusoe and Balboa. Uhura, if you find food, say so and I will come to you."}
+- 02:41 act: {"actions":[],"say":"Huck here at -957,78,-3007, dusk gone, no shelter yet. I hold nothing. Crusoe, if your cell at -955,80,-3008 is checked and closed, say so and I will come in.","intent":{"goal":"w
+- 02:41 act: {"actions":[],"say":"Understood, Crusoe. I will not go into that cell. I stay here near you and the group until morning."}
+- 02:45 act: {"actions":[],"say":"Huck, midday 1191. I am still unsheltered and hold nothing. My sword and rotten flesh lie at -999,64,-2962. Sacagawea or Janeway, if you walk with me armed, I will go get them now
+- 02:46 act: {"actions":[],"say":"Sacagawea, will you walk with me to -999,64,-2962 to get my sword and flesh? Janeway says she is too hurt. I will go only if you say yes, and we go back here together."}
+- 02:46 act: {"actions":[],"say":"Agreed, Uhura. I will not go alone. I stay here in sight of the group. If anyone walks to -999,64,-2962 together with me in daylight, say so."}
+- 02:47 act: {"actions":[],"say":"Yes, Uhura and Picard, I go with you now. Lizzie stays in sight of the group. Let's walk together to -999,64,-2962, collect my sword and flesh, and come straight back."}
+- 02:49 act: {"actions":[{"do":"goto","target":{"x":-999,"y":64,"z":-2962}}],"say":"Going to -999,64,-2962 with Uhura and Picard now."}
+- 02:49 act: {"actions":[{"do":"goto","target":{"x":-999,"y":64,"z":-2962}}],"say":"I am at the spot. A bow was drawn to the northwest, so keep watch, Picard. Checking for my sword and flesh now."}
+- 02:49 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3007}}],"say":"Nothing of mine is here. My sword and flesh are gone. Thank you, Uhura and Picard. We go back to the group now."}
+- 02:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-955,"y":78,"z":-3007}}]}
+- 02:49 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}]}
+- 02:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-957,"y":78,"z":-3007}}]}
+- 02:49 act: {"actions":[],"say":"Uhura, Picard, I am boxed in by stone at -1000,63,-2961 and goto cannot get out. Can one of you tell me which way is open, or place a block so I can climb?"}
+- 02:50 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3007}}],"say":"I am free now at -1000,64,-2962, not trapped. Heading back toward the tables."}
+- 02:50 act: {"actions":[{"do":"unstick"}],"say":"Still boxed in stone at -1000,64,-2962. Goto fails. I have no pickaxe. If anyone brings a pickaxe or planks, please place a block beside me or tell me the open sid
+- 02:50 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3007}}]}
+- 02:50 act: {"actions":[],"say":"Still stuck at -1000,64,-2962. Goto has no path. I will stay still and wait. Anyone with a pickaxe or planks, please come and place a block to open the way."}
+- 02:58 act: {"actions":[],"say":"Zeoblue, I have no planks, sorry. I am stuck too and will keep watch here."}
+- 03:02 act: {"actions":[],"say":"Thank you Zeoblue. I will stay here and wait for the way you open."}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":-997,"y":65,"z":-2960}}]}
+- 03:06 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3007}}],"say":"I am out of the pocket and holding a cobblestone. Heading to the tables now."}
+- 03:07 act: {"actions":[],"say":"Back with the group at -956,78,-3007. It is dusk and I have no bed. Crusoe, could you pass me 4 planks so I can close a checked shelter?"}
+- 03:10 act: {"actions":[],"say":"Morning. I came through the night with the group, health 20. I have one cobblestone and no planks, so I need a shelter cell named and checked before the next night."}
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3003}}],"say":"Stepping back a few blocks so the give can go through, Anning. I am still in sight."}
+- 03:20 say: {"text":"Huck: night is here and I have no shelter or planks. I am staying in sight at -952,78,-3004. If anyone has a spare plank or a checked cell, tell me and I will come."}
+- 03:24 say: {"text":"Johnny, thank you. Yes, I will take the 2 dark oak planks. I am at -952,78,-3004 on open grass. Reynolds is within 2 blocks of me, so please step in when nobody else is that close. I will nam
+- 03:36 say: {"text":"Johnny, I have not found a closed cell. I stand on open grass at -952,78,-3004, so I name no cell yet. Keep your 2 planks for now; I will ask when I have checked one with view."}
+- 03:52 act: {"say":"Huck, midday 1194: hunger 20, health 20, here in sight. I hold one cobblestone and no planks. I will walk to the stores hall with Picard and the others when Uhura says go."}
+- 04:09 act: {"say":"Huck, afternoon 1195: hunger 20, I have no food need yet, but I will walk with Reynolds' group to the stores hall and stay in sight.","intent":{"goal":"follow_reynolds","program":"follow","arg
+- 04:09 act: {"say":"Huck: the follow to Reynolds failed, so I stay here at -952,78,-3004 in sight of Anning and Crusoe. Dusk is near and I have no closed cell. If anyone names a checked closed cell, I will go the
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-2998}}],"say":"Huck: stepping 6 blocks north so Crusoe can hand his planks to Anning. I stay in sight and place nothing."}
+- 04:20 act: {"say":"Huck, afternoon 1195: I have no shelter and no planks. Anning, when your bed-shelter is closed and checked, may I sleep in it with you? I will stay out of your way until then."}
+- 04:29 act: {"say":"Huck, midday 1196: Anning, with Tesla's planks, is your bed-shelter closed yet? Name the cell x,y,z and I will check it before I enter. I stay here in your sight."}
+- 04:31 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3014}}],"say":"Huck: going to the shelter at -952,78,-3014 to check it from view before I enter."}
+- 04:31 act: {"say":"Huck: my walk to -952,78,-3014 was blocked and I stopped at -952,78,-3012. Anning, Chapman: is the door open, and is there a free cell to enter? I will wait until you say."}
+- 04:31 act: {"say":"Huck, afternoon 1196: thank you, Anning. I will not enter your shelter. I stay outside in sight. Johnny, if your 6 dark oak planks are still offered, I will name my own checked cell next to An
+- 04:33 act: {"say":"Huck, afternoon 1196, hunger 20, no planks, no logs. Anning gave 6 dark oak to Lizzie first, so I ask: who has 3 spare planks or logs for a 3-block pillar? I will name my cell next to Anning's
+- 04:33 act: {"say":"Huck, afternoon 1196: Johnny, yes, please give 2 dark oak planks when no one is within 2 blocks of me. Orville, the spruce plank too. My cell is -952,78,-3012, where I stand, next to Anning's 
+- 04:34 act: {"say":"Huck, dusk 1196: I am at -952,78,-3012, in reach of nobody yet. Orville, where are you? I will step to you for the spruce plank if you tell me your position."}
+- 04:34 act: {"actions":[{"do":"goto","target":{"x":-946,"y":78,"z":-3006}}],"say":"Huck: walking to Orville at -946,78,-3006 for the spruce plank."}
+- 04:35 say: {"text":"Orville, I am here at your side. Could you hand me the spruce plank now? Night has come, and I have no shelter yet."}
+- 04:37 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3012}}],"say":"Huck: morning. Walking to my cell at -952,78,-3012 so Johnny can give his 2 dark oak there, with nobody within 2 blocks.","intent
+- 04:42 say: {"text":"Johnny, I stand at -951,78,-3012, on grass beside the crafting table at -948,78,-3012. Please give the 2 dark oak here."}
+- 04:45 say: {"text":"Johnny, I am here at -951,78,-3012, on grass by the crafting table. Kira is 3 blocks east. Please give the 2 dark oak to me here."}
+- 04:53 act: {"actions":[{"do":"note","text":"Huck, midday 1197: still at -951,78,-3012 with 1 cobblestone, no planks yet. Kira 2.9 blocks east. Waiting for Johnny's 2 dark oak."}],"say":"Johnny, it is midday now.
+- 04:53 act: {"actions":[],"say":"Johnny, I am at -951,78,-3012, two blocks south of you, on the grass. I can see you. Please give the 2 dark oak planks now, while it is day."}
+- 04:56 act: {"actions":[],"say":"Johnny, I am still here at -951,78,-3012, in your sight if you look south. The planks can come whenever you are close."}
+- 04:59 act: {"actions":[],"say":"Johnny, it is dusk and I have no planks yet. I am still at -951,78,-3012. If you can give the 2 dark oak now, please do. I will not walk into the dark."}
+- 05:02 act: {"actions":[],"say":"Johnny, still nothing in my pack. Please give the 2 dark oak to me here at -951,78,-3012. I am standing still on the grass."}
+- 05:07 act: {"actions":[],"say":"Kira, Johnny says he cannot give me the planks while you are within 2 blocks of me. Could you step a few blocks east, please? Thank you."}
+- 05:10 say: {"text":"Johnny, I am still at -951,78,-3012 and ready. Please give the 2 dark oak planks here when you can."}
+- 05:12 say: {"text":"Anning, I am at -951,78,-3012 on grass, by the crafting table. I cannot see you yet. Please give the dark oak plank when you see me. Thank you."}
+- 05:17 say: {"text":"Anning, I still have no planks at all. Johnny's 2 did not reach me. I am at -951,78,-3012. I cannot see you from here; I will step to where you can see me if you tell me where."}
+- 05:18 act: {"actions":[{"do":"goto","target":{"x":-951,"y":78,"z":-3013}}],"say":"Anning, I am at -951,78,-3013 now, next to your cell. Please give the dark oak plank."}
+- 05:18 say: {"text":"Johnny and Anning, my pack still shows only 1 cobblestone. No dark oak has reached me. Please try the give again from where you stand, one at a time, and I will hold still."}
+- 05:19 say: {"text":"Anning, I am at -951,78,-3012, south of your cell and in your sight from the south side. I have no planks yet. Keep your planks for your own cell; I will find my own wood."}
+- 05:24 act: {"say":"Anning, Johnny: I am still at -951,78,-3012 with no planks. If anyone has a spare log or plank, hand it to me here in daylight. I will not walk into the dark.","intent":{"goal":"hold_position_
+- 05:24 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3013}}],"say":"Thank you, Anning. I see an item on the grass at -950,78,-3013. I am going to pick it up now and stay in your sight."}
+- 05:24 act: {"say":"Anning, I am at -949,78,-3013 now, with nobody else within 2 blocks that I can see. Please give the two oak planks to me here. If it is blocked again, keep them for your cell.","actions":[]}
+- 05:25 act: {"say":"Thank you, Anning. I have 2 oak planks and 1 cobblestone now. I will not place anything until I can view a closed spot. I stay still here in your sight tonight.","actions":[]}
+- 05:25 act: {"say":"Anning, I am at -949,78,-3013 on the grass and cannot see inside your cell well enough to name an open side. Please check it from inside with view. I am not entering anything tonight.","action
